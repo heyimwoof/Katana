@@ -1,7 +1,7 @@
 # Katana
 
 **Katana, a .NET obfuscator by woof**
-* I don't take credit for the methods used in the obfuscator, most of them are public. I just decided to put it all together since there isn't many .NET obfuscators available for free.
+* I don't take credit for the methods used in the obfuscator, most of them are public. I just decided to put it all together since there isn't many .NET obfuscators available for free + rainbow UI is awesome.
 
 **What's included?**
 - Keyauth API, it'll include auto updates.
