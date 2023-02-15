@@ -1,2 +1,33 @@
 # Katana
-A .NET obfuscator
+
+**Katana, a .NET obfuscator by woof**
+* I don't take credit for the methods used in the obfuscator, most of them are public. I just decided to put it all together since there isn't many .NET obfuscators available for free.
+
+**What's included?**
+- Keyauth API, it'll include auto updates.
+- Constants protection
+- Anti Debug
+- Mutation
+- Control Flow
+- Anti Dump
+- Junk Spam
+- Reference Proxy
+- Watermark
+- Renamer
+- Methods Encryption
+- Anti de4dot
+- Fake Attributes
+- Anti crack
+- Rainbow UI
+
+
+**Things to consider**
+- I don't take credit for all the methods used in the obfuscator, most of them are public. I just decided to put it all together since there isn't many good .NET obfuscators available for free.
+- This project will become open source eventually.
+
+![image](https://user-images.githubusercontent.com/108382118/218949197-a09c92fb-a0b7-46c9-a9d7-3426bf76623d.png)
+![image](https://user-images.githubusercontent.com/108382118/218949352-eaf1c6c1-881a-42de-ac67-bce5efc86aae.png)
+![image](https://user-images.githubusercontent.com/108382118/218949289-dde59614-a0f6-4874-a3a9-0ce7c887b098.png)
+![image](https://user-images.githubusercontent.com/108382118/218949443-677850fe-bd14-483b-b3b1-cd61710624b5.png)
+
+
